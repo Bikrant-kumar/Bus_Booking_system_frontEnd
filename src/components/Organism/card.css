@@ -1,0 +1,14 @@
+
+  .sort{
+	background-color:rgb(134, 191, 238);
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 13%;
+	align-content: right;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    text-align: left;
+  
+  }
